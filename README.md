@@ -5,53 +5,6 @@ Object Oriented Application Framework Project
 
 ## Project Functionalities
 
-1. 准备好窗口，下载关闭vpn，再打开
-2. 解压后，先运行server，再运行client
-3. 记得先退出登录
-4. 展示Topic的功能；包括右边栏
-5. user的注册（去邮箱验证，展示未激活登录报错）和登录
-6. 展示话题详情选择不要最推荐的
-7. 选择评论多一点的进去评论，不然评论数量未更新（问题）
-8. user5.1回复评论最好评论话题，和回复最后一个reply（问题）
-9. 用户收藏完之后取消，只留下点赞，返回主页看效果
-10. 用户页进去话题详情点击空白处
-11. pm记得不要点赞和收藏
-12. Product topic
-13. Topic
-    	testGetByTopicName()
-    	testGetByTopicId()
-    	testCollectedByUid()
-    	testGetLatestTopic()
-    	testGetHotTopic()
-    	
-    Comment
-    	testListComment()
-    Pm
-    	testValidUserLogin()
-    	testSaveTopic()
-    	testUpdateProfile()
-    User
-    	testValidUserLogin()
-    	testGetTopicByComment()
-
-
-
-- Topic
-  1. Show the recommended(hot) topic
-
-  2. Show the latest topic
-
-  3. Show details of the topic (including topic name, content, photos and comments)
-
-  4. Search topic by topic name
-
-  5. Using paging to display the topic list and comments (two levels)
-
-
-
-
-记得先退出登录
-
 - Client (user): 
 
   1. Register
